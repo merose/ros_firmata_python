@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package format="2">
+  <name>ros_firmata_python</name>
+  <version>1.0.0</version>
+  <description>
+    An implementation of a Firmata host library for use with ROS.
+  </description>
+  <author>Mark Rose</author>
+  <maintainer email="markrose@acm.org">Mark Rose</maintainer>
+  <url type="website">https://github.com/merose/ros_firmata_python</url>
+  <url type="repository">https://github.com/merose/ros_firmata_python.git</url>
+  <url type="bugtracker">https://github.com/merose/ros_firmata_python/issues</url>
+  <license>BSD</license>
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>
